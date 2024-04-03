@@ -1,1 +1,1 @@
-# open254
+# API about Kenya, built using Java Spring Boot
